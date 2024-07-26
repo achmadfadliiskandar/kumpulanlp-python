@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kalkulator Statistik</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Kalkulator Statistik</h1>
+        <div class="input-area">
+            <input type="number" id="data1" placeholder="Masukkan Data 1">
+            <input type="number" id="data2" placeholder="Masukkan Data 2">
+            <input type="number" id="data3" placeholder="Masukkan Data 3">
+            </div>
+        <div class="button-area">
+            <button onclick="hitungMean()">Hitung Mean</button>
+            <button onclick="hitungMedian()">Hitung Median</button>
+            <button onclick="hitungModus()">Hitung Modus</button>
+            <button onclick="hitungStandarDeviasi()">Hitung Standar Deviasi</button>
+            </div>
+        <div class="output-area">
+            <p id="mean-output"></p>
+            <p id="median-output"></p>
+            <p id="modus-output"></p>
+            <p id="stddev-output"></p>
+            </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>

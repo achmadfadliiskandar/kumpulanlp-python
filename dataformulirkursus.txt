@@ -1,0 +1,48 @@
+Nama: fadli
+Alamat: depok
+Email: fadli@gmail.com
+Usia: 20
+Asal Sekolah: SMK TARUNA BHAKTI
+Jenis Kelamin: LAKI-LAKI
+Jenis Kursus: PROGRAMMING WEB
+
+Nama: casemiro
+Alamat: rio de janeiro
+Email: case@gmail.com
+Usia: 30
+Asal Sekolah: riodejaneiro 21
+Jenis Kelamin: LAKI-LAKI
+Jenis Kursus: PROGRAMMING ANDROID
+
+Nama: rafi
+Alamat: jaktim
+Email: rafi@gmail.com
+Usia: 24
+Asal Sekolah: sdn 1 kalisari
+Jenis Kelamin: LAKI-LAKI
+Jenis Kursus: PROGRAMMING DESKTOP
+
+Nama: putri
+Alamat: jakbar
+Email: putri@gmail.com
+Usia: 26
+Asal Sekolah: sman 1 petamburan
+Jenis Kelamin: PEREMPUAN
+Jenis Kursus: PROGRAMMING ANDROID
+
+Nama: wisnu
+Alamat: kupang
+Email: wisnukata@gmail.com
+Usia: 23
+Asal Sekolah: sman 1 palu
+Jenis Kelamin: LAKI-LAKI
+Jenis Kursus: PROGRAMMING WEB
+
+Nama: rizki
+Alamat: cianjur
+Email: rizku@gmail.com
+Usia: 13
+Asal Sekolah: smpn 26 depok
+Jenis Kelamin: LAKI-LAKI
+Jenis Kursus: PROGRAMMING DESKTOP
+

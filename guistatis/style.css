@@ -1,0 +1,39 @@
+body {
+    font-family: sans-serif;
+}
+
+.container {
+    width: 500px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.input-area {
+    margin-bottom: 20px;
+}
+
+.input-area input {
+    width: 500px;
+    margin: 5px;
+}
+
+.button-area {
+    display: flex;
+    justify-content: space-between;
+}
+
+.button-area button {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+.output-area {
+    margin-top: 20px;
+}
+
+.output-area p {
+    margin-bottom: 10px;
+}
